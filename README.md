@@ -2,7 +2,7 @@
 ***
 ---
 <html>
- <body>
+ <head>
 
 **issa haddad**
 
@@ -25,5 +25,5 @@
 - football
 - learning
 
- </body>
+ </head>
 </html>

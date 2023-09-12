@@ -33,5 +33,3 @@
  <img src="https://catfriendly.com/wp-content/uploads/2023/07/Generic-Cat.png" width="150">
  </div>
  
-
- 

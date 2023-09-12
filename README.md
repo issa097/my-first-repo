@@ -1,8 +1,7 @@
 # my-first-repo
 ***
 ---
-<html>
- <head>
+
 
 **issa haddad**
 
@@ -25,5 +24,4 @@
 - football
 - learning
 
- </head>
-</html>
+ 
